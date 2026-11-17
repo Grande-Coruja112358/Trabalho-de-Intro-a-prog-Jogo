@@ -1,7 +1,4 @@
 import math
-import pandas as pd
-import numpy as np
-import pygames
 from flask import Flask, render_template
 
 app = Flask(__name__)
